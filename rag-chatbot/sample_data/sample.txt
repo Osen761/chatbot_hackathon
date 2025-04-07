@@ -1,0 +1,12 @@
+Hackathon Rules and Guidelines
+
+Welcome participants! Here are the key rules for the hackathon:
+1. Be Creative: Focus on innovative solutions. Think outside the box!
+2. Collaboration: Work together effectively within your teams.
+3. Respect: Treat all participants, mentors, and organizers with respect. No harassment will be tolerated.
+4. Code of Conduct: Adhere to the event's code of conduct (available separately).
+5. Submissions: All project code must be submitted by the deadline (Sunday 5 PM). Include a short video demo.
+6. Originality: Work should be primarily original, created during the hackathon. Use of pre-existing libraries/frameworks is allowed, but the core idea and implementation should be new.
+7. Judging Criteria: Projects will be judged on innovation, technical execution, usability, and presentation.
+
+Important Note: Ensure your Gemini API key is kept secure and not hardcoded in your submissions. Use environment variables.

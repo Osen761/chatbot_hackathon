@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+langchain-google-genai
+chromadb
+# Add pypdf or other loaders if needed for your data
+# pip install pypdf
+langchain_community # Required for some loaders/splitters
